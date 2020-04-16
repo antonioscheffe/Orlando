@@ -1,0 +1,6 @@
+	document.querySelector("#confirmar").addEventListener("click",function(){
+		
+			alert("Clicou no ok");
+	   
+	
+});
